@@ -79,8 +79,8 @@ NB: You must register an account with esp8266.com before you can view the circui
 
 WiFiServer server(80);                                                                                      // Starts a WiFi server on port 80.
 
-const char *ssid = "Your_router_SSID";                                                                           // * Input your WiFi network SSID.
-const char *password = "Your_router_password";                                                                    // * Input your WiFi network password.
+const char *ssid = "YOUR_ROUTER_SSID";                                                                      // * Input your WiFi network SSID.
+const char *password = "YOUR_ROUTER_PASSWORD";                                                              // * Input your WiFi network password.
 IPAddress ip(192, 168, 1, 10);                                                                              // * Chose a fixed IP for your NodeMCU (ensure it is the the same as the one in the Homebridge config.json).
 IPAddress gateway(192, 168, 1, 1);                                                                          // * Enter your Router's gateway. This should be printed on the back of the router.
 IPAddress subnet(255, 255, 255, 0);                                                                         // * Enter the subnet mask for your network.

@@ -1,5 +1,5 @@
 # NodeMCU Homebridge RGB Controller
-###### View somewhat more readable code on Hastebin [here](https://hastebin.com/povamemetu.cpp)
+###### View somewhat more readable code on Hastebin [here](https://hastebin.com/povamemetu.cpp).
 
 ## Instructions
 1)  Install `homebridge` and `homebridge-better-http-rgb` via `npm`

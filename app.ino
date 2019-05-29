@@ -75,7 +75,7 @@ NB: You must register an account with esp8266.com before you can view the circui
 
 #define redPin 13                                                                                           // Pin D7.
 #define greenPin 12                                                                                         // Pin D6.
-#define bluePin 14                                                                                          // Pin D5 .
+#define bluePin 14                                                                                          // Pin D5.
 
 WiFiServer server(80);                                                                                      // Starts a WiFi server on port 80.
 

@@ -54,7 +54,7 @@
 6)  Upload to your NodeMCU, and if you've followed your guide correctly, this should all work beautifully!
 
 
-NB: To fix a brightness bug with homebridge-better-http-rgb, follow these instructions:
+NB: To fix a brightness compatibility bug with homebridge-better-http-rgb, follow these instructions:
 
 1)  Stop Homebridge.
 2)  Navigate to /usr/local/lib/node_modules/homebridge-better-http-rgb/index.js.
